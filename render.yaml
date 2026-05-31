@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: kavin-portfolio-backend
+    env: node
+    plan: free
+    repo: https://github.com/<your-username>/<your-repo>
+    branch: main
+    root: backend
+    buildCommand: npm install
+    startCommand: npm start
