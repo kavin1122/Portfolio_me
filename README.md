@@ -40,3 +40,8 @@ Then the Download Resume button will work.
 - `GET /api/projects`
 - `POST /api/contact`
 
+## Live Deployment
+
+- Frontend: https://portfolio-4cbfsikr0-kavin1122s-projects.vercel.app
+- Backend: Deployed on Render from the same GitHub repo
+
